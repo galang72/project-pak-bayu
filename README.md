@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Galang Lian Kagura
+# Laporan Proyek pergerakan harga saham dalam beberapa hari trakhir - Galang Lian Kagura
 
 ## Domain Proyek
 Domain yang dieksplorasi dalam proyek kali ini adalah finance atau finansial. Secara spesifik fokus finansial pada
